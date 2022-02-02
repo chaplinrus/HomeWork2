@@ -16,4 +16,6 @@
     <string name="key_plus">+</string>
     <string name="key_minus">-</string>
     <string name="key_equal">=</string>
+    <string name="OPERATION">\@string/operation</string>
+    <string name="OPERAND">\@string/operand</string>
 </resources>
